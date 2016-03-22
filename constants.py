@@ -1,0 +1,9 @@
+import os
+
+AUTH_URL=os.environ['OS_AUTH_URL']
+VERSION=os.environ['OS_VOLUME_API_VERSION']
+PROJECT_DOMAIN_NAME = os.environ['OS_PROJECT_DOMAIN_NAME']
+PROJECT_ID = os.environ['OS_PROJECT_ID']
+PASSWORD = os.environ['OS_PASSWORD']
+DOMAIN_NAME = os.environ['OS_USER_DOMAIN_NAME']
+USERNAME = os.environ['OS_USERNAME']

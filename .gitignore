@@ -1,2 +1,6 @@
 
 secret.yml
+
+*.csv
+
+*.pyc
